@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Stages To Clear For Goal",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "initial_stage_idx": 4,
+    "codes": "stages_to_clear_for_goal",
+    "stages": [
+      {
+      "img": "images/settings/stages_to_clear_for_goal_4.png",
+      "codes": "stages_to_clear_for_goal_4",
+      "inherit_codes": false
+      },
+      {
+      "img": "images/settings/stages_to_clear_for_goal_5.png",
+      "codes": "stages_to_clear_for_goal_5",
+      "inherit_codes": false
+      },
+      {
+      "img": "images/settings/stages_to_clear_for_goal_6.png",
+      "codes": "stages_to_clear_for_goal_6",
+      "inherit_codes": false
+      },
+      {
+      "img": "images/settings/stages_to_clear_for_goal_7.png",
+      "codes": "stages_to_clear_for_goal_7",
+      "inherit_codes": false
+      },
+      {
+      "img": "images/settings/stages_to_clear_for_goal_8.png",
+      "codes": "stages_to_clear_for_goal_8",
+      "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Easy Mode",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "initial_stage_idx": 0,
+    "codes": "easy_mode",
+    "stages": [
+      {
+      "img": "images/settings/easy_mode_off.png",
+      "codes": "easy_mode_off",
+      "inherit_codes": false
+      },
+      {
+      "img": "images/settings/easy_mode_on.png",
+      "codes": "easy_mode_on",
+      "inherit_codes": false
+      }
+    ]
+  }
+]

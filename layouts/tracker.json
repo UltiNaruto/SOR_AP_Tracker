@@ -1,0 +1,83 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "background": "#212121",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "left",
+              "content": { "type": "layout", "key": "item_grid" },
+              "header_content": {
+                "type": "button_popup",
+                "style": "settings",
+                "popup_background": "#55877373",
+                "layout": "settings_popup"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Pinned Locations",
+              "content": {
+                "type": "recentpins",
+                "style": "wrap",
+                "h_alignment": "stretch",
+                "v_alignment": "stretch",
+                "orientation": "horizontal",
+                "compact": true
+              }
+            }
+          ]
+        },
+        {
+          "type": "array",
+          "v_alignment": "stretch",
+          "margin": "0, 0",
+          "content": [
+            {
+              "type": "tabbed",
+              "dock": "top",
+              "tabs": [
+			    { "title": "Menu (M)", "content": { "type": "map", "maps": ["menu"] }},
+                { "title": "Shopping Mall (1)", "content": { "type": "map", "maps": ["shopping_mall"] }},
+                { "title": "Inner City Slums (2)", "content": { "type": "map", "maps": ["inner_city_slums"] }},
+                { "title": "Beachside (3)", "content": { "type": "map", "maps": ["beachside"] }},
+                { "title": "Bridge Under Construction (4)", "content": { "type": "map", "maps": ["bridge_under_construction"] }},
+                { "title": "Aboard The Ferry (5)", "content": { "type": "map", "maps": ["aboard_the_ferry"] }},
+                { "title": "Factory (6)", "content": { "type": "map", "maps": ["factory"] }},
+                { "title": "Elevator (7)", "content": { "type": "map", "maps": ["elevator"] }},
+                { "title": "Syndicate Mansion (8)", "content": { "type": "map", "maps": ["syndicate_mansion"] }}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "tracker_broadcast": {"type": "container", "content": {"type": "layout", "key": "item_grid" }},
+  "settings_popup":
+  {
+    "type": "array",
+    "orientation": "horizontal",
+    "h_alignment": "left",
+    "content": [
+      {
+        "type": "group",
+        "header": "Settings",
+        "dock": "bottom",
+        "content": {
+          "type": "layout",
+          "key": "settings"
+		}	
+      }
+    ]
+  }
+}

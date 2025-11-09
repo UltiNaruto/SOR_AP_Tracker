@@ -1,0 +1,17 @@
+{
+  "name": "Streets of Rage",
+  "game_name": "Streets of Rage",
+  "package_version": "0.0.4",
+  "package_uid": "ap_streetsofrage",
+  "author": "UltiNaruto",
+  "variants": {
+      "standard": {
+          "display_name": "Map Tracker",
+          "flags": ["ap"]
+      },
+      "var_itemsonly": {
+          "display_name": "Items Only",
+          "flags": ["ap"]
+      }
+  }
+}

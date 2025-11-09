@@ -1,0 +1,56 @@
+[
+    {
+        "name": "menu",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/menu.png"
+    },
+    {
+        "name": "shopping_mall",
+        "location_size": 24,
+        "location_border_thickness": 1,
+        "img": "images/shopping_mall.png"
+    },
+    {
+        "name": "inner_city_slums",
+        "location_size": 24,
+        "location_border_thickness": 1,
+        "img": "images/inner_city_slums.png"
+    },
+    {
+        "name": "beachside",
+        "location_size": 24,
+        "location_border_thickness": 1,
+        "img": "images/beachside.png"
+    },
+    {
+        "name": "bridge_under_construction",
+        "location_size": 24,
+        "location_border_thickness": 1,
+        "img": "images/bridge_under_construction.png"
+    },
+    {
+        "name": "aboard_the_ferry",
+        "location_size": 24,
+        "location_border_thickness": 1,
+        "img": "images/aboard_the_ferry.png"
+    },
+    {
+        "name": "factory",
+        "location_size": 24,
+        "location_border_thickness": 1,
+        "img": "images/factory.png"
+    },
+    {
+        "name": "elevator",
+        "location_size": 82,
+        "location_border_thickness": 1,
+        "img": "images/elevator.png"
+    },
+    {
+        "name": "syndicate_mansion",
+        "location_size": 24,
+        "location_border_thickness": 1,
+        "img": "images/syndicate_mansion.png"
+    }
+]

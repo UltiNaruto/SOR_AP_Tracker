@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Stage 1 Key",
+        "type": "toggle",
+        "img": "images/items/stage_1_key.png",
+        "codes": "stage_1_key"
+    },
+    {
+        "name": "Stage 2 Key",
+        "type": "toggle",
+        "img": "images/items/stage_2_key.png",
+        "codes": "stage_2_key"
+    },
+    {
+        "name": "Stage 3 Key",
+        "type": "toggle",
+        "img": "images/items/stage_3_key.png",
+        "codes": "stage_3_key"
+    },
+    {
+        "name": "Stage 4 Key",
+        "type": "toggle",
+        "img": "images/items/stage_4_key.png",
+        "codes": "stage_4_key"
+    },
+    {
+        "name": "Stage 5 Key",
+        "type": "toggle",
+        "img": "images/items/stage_5_key.png",
+        "codes": "stage_5_key"
+    },
+    {
+        "name": "Stage 6 Key",
+        "type": "toggle",
+        "img": "images/items/stage_6_key.png",
+        "codes": "stage_6_key"
+    },
+    {
+        "name": "Stage 7 Key",
+        "type": "toggle",
+        "img": "images/items/stage_7_key.png",
+        "codes": "stage_7_key"
+    },
+    {
+        "name": "Stage 8 Key",
+        "type": "toggle",
+        "img": "images/items/stage_8_key.png",
+        "codes": "stage_8_key"
+    }
+]

@@ -1,0 +1,1439 @@
+[
+    {
+        "name": "Menu",
+        "children": [
+            {
+                "name": "Shopping Mall",
+                "access_rules": [
+                    "$can_reach_stage|1"
+                ],
+                "map_locations": [
+                    {
+                        "map": "menu",
+                        "x": 120,
+                        "y": 160
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Rach Shop Phone Booth 1 (Apple)"
+                    },
+                    {
+                        "name": "Rach Shop Phone Booth 2 (Bottle)"
+                    },
+                    {
+                        "name": "Rach Shop Phone Booth 3 (Pipe)"
+                    },
+                    {
+                        "name": "ABC Shop Phone Booth 1 (Nothing)"
+                    },
+                    {
+                        "name": "ABC Shop Phone Booth 2 (Bottle)"
+                    },
+                    {
+                        "name": "ABC Shop Phone Booth 3 (Nothing)"
+                    },
+                    {
+                        "name": "Boss Phone Booth (Chicken)"
+                    },
+                    {
+                        "name": "Stage Clear (Inner City Slums Key)"
+                    }
+                ]
+            },
+            {
+                "name": "Inner City Slums",
+                "access_rules": [
+                    "$can_reach_stage|2"
+                ],
+                "map_locations": [
+                    {
+                        "map": "menu",
+                        "x": 136,
+                        "y": 160
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Red Bricks Door Barrel 1 (1000 Points)"
+                    },
+                    {
+                        "name": "Red Bricks Door Barrel 2 (Sleeping Powder)"
+                    },
+                    {
+                        "name": "Broken Windows Door Barrel 1 (Bottle)"
+                    },
+                    {
+                        "name": "Broken Windows Door Barrel 2 (Apple)"
+                    },
+                    {
+                        "name": "Graffiti Wall Barrel 1 (Bottle)"
+                    },
+                    {
+                        "name": "Graffiti Wall Barrel 2 (Extra Life)"
+                    },
+                    {
+                        "name": "Fence Barrel (Pipe)"
+                    },
+                    {
+                        "name": "Blue Brick Poster Barrel (Apple)"
+                    },
+                    {
+                        "name": "Blue Brick Before Boss Barrel (Knife)"
+                    },
+                    {
+                        "name": "Red Brick Boss Barrel (Chicken)"
+                    },
+                    {
+                        "name": "Stage Clear (Beachside Key)"
+                    }
+                ]
+            },
+            {
+                "name": "Beachside",
+                "access_rules": [
+                    "$can_reach_stage|3"
+                ],
+                "map_locations": [
+                    {
+                        "map": "menu",
+                        "x": 152,
+                        "y": 160
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Before First Projector Tires (Baseball Bat)"
+                    },
+                    {
+                        "name": "Third Fence Tires 1 (Apple)"
+                    },
+                    {
+                        "name": "Third Fence Tires 2 (1000 Points)"
+                    },
+                    {
+                        "name": "Third Fence Tires 3 (Chicken)"
+                    },
+                    {
+                        "name": "Stage Clear (Bridge Under Construction Key)"
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Under Construction",
+                "access_rules": [
+                    "$can_reach_stage|4"
+                ],
+                "map_locations": [
+                    {
+                        "map": "menu",
+                        "x": 168,
+                        "y": 160
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "First Hole Signalisation Block (Sleeping Powder)"
+                    },
+                    {
+                        "name": "First Hole Safety Barrier (1000 Points)"
+                    },
+                    {
+                        "name": "Second Hole Signalisation Pole (Apple)"
+                    },
+                    {
+                        "name": "Second Hole Signalisation Block (Extra Life)"
+                    },
+                    {
+                        "name": "Third Hole Signalisation Pole (Nothing)"
+                    },
+                    {
+                        "name": "Third Hole Safety Barrier 1 (1000 Points)"
+                    },
+                    {
+                        "name": "Third Hole Safety Barrier 2 (Apple)"
+                    },
+                    {
+                        "name": "Big Hole Signalisation Block 1 (Bottle)"
+                    },
+                    {
+                        "name": "Big Hole Signalisation Block 2 (Chicken)"
+                    },
+                    {
+                        "name": "Stage Clear (Aboard The Ferry Key)"
+                    }
+                ]
+            },
+            {
+                "name": "Aboard The Ferry",
+                "access_rules": [
+                    "$can_reach_stage|5"
+                ],
+                "map_locations": [
+                    {
+                        "map": "menu",
+                        "x": 184,
+                        "y": 160
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Double Wooden Wall Container 1 (1000 Points)"
+                    },
+                    {
+                        "name": "Double Wooden Wall Container 2 (Sleeping Powder)"
+                    },
+                    {
+                        "name": "Double Wooden Wall Container 3 (1000 Points)"
+                    },
+                    {
+                        "name": "Double Wooden Wall Container 4 (Apple)"
+                    },
+                    {
+                        "name": "First Ladder Container (Chicken)"
+                    },
+                    {
+                        "name": "Before Second Ladder Container (Chicken)"
+                    },
+                    {
+                        "name": "Before Boss Container (Police)"
+                    },
+                    {
+                        "name": "Boss Container (Chicken)"
+                    },
+                    {
+                        "name": "Stage Clear (Factory Key)"
+                    }
+                ]
+            },
+            {
+                "name": "Factory",
+                "access_rules": [
+                    "$can_reach_stage|6"
+                ],
+                "map_locations": [
+                    {
+                        "map": "menu",
+                        "x": 200,
+                        "y": 160
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "First Treadmill Crate 1 (5000 Points)"
+                    },
+                    {
+                        "name": "First Treadmill Crate 2 (1000 Points)"
+                    },
+                    {
+                        "name": "Miniboss Crate 1 (Apple)"
+                    },
+                    {
+                        "name": "Miniboss Crate 2 (Chicken)"
+                    },
+                    {
+                        "name": "After Double Treadmill Crate 1 (Sleeping Powder)"
+                    },
+                    {
+                        "name": "After Double Treadmill Crate 2 (Nothing)"
+                    },
+                    {
+                        "name": "Before Big Single Treadmill Crate 1 (Police)"
+                    },
+                    {
+                        "name": "Before Big Single Treadmill Crate 2 (Extra Life)"
+                    },
+                    {
+                        "name": "Before Big Single Treadmill Crate 3 (Pipe)"
+                    },
+                    {
+                        "name": "Boss Crate (Chicken)"
+                    },
+                    {
+                        "name": "Stage Clear (Elevator Key)"
+                    }
+                ]
+            },
+            {
+                "name": "Elevator",
+                "access_rules": [
+                    "$can_reach_stage|7"
+                ],
+                "map_locations": [
+                    {
+                        "map": "menu",
+                        "x": 216,
+                        "y": 160
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stage Clear (Syndicate Mansion Key)"
+                    }
+                ]
+            },
+            {
+                "name": "Syndicate Mansion",
+                "access_rules": [
+                    "$can_reach_stage|8"
+                ],
+                "map_locations": [
+                    {
+                        "map": "menu",
+                        "x": 232,
+                        "y": 160
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Before Stage 1 Boss Table 1 (Nothing)"
+                    },
+                    {
+                        "name": "Before Stage 1 Boss Table 2 (Nothing)"
+                    },
+                    {
+                        "name": "Stage 1 Boss Table (Apple)"
+                    },
+                    {
+                        "name": "Stage 2 Boss Table (Chicken)"
+                    },
+                    {
+                        "name": "Stage 3 Boss Table 1 (Sleeping Powder)"
+                    },
+                    {
+                        "name": "Stage 3 Boss Table 2 (Chicken)"
+                    },
+                    {
+                        "name": "Before Stage 4 Boss Table (Chicken)"
+                    },
+                    {
+                        "name": "Stage 4 Boss Table 1 (Knife)"
+                    },
+                    {
+                        "name": "Stage 4 Boss Table 2 (Sleeping Powder)"
+                    },
+                    {
+                        "name": "Stage 4 Boss Table 3 (Apple)"
+                    },
+                    {
+                        "name": "Before Stage 5 Boss Table (Nothing)"
+                    },
+                    {
+                        "name": "Stage 5 Boss Table (Chicken)"
+                    },
+                    {
+                        "name": "Twins (Nothing)"
+                    },
+                    {
+                        "name": "Beat The Game",
+                        "access_rules": [
+                            "$can_reach_final_boss"
+                        ],
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Shopping Mall",
+        "access_rules": [
+            "$can_reach_stage|1"
+        ],
+        "children": [
+            {
+                "name": "Rach Shop Phone Booth 1",
+                "map_locations": [
+                    {
+                        "map": "shopping_mall",
+                        "x": 2020,
+                        "y": 120
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Apple)"
+                    }
+                ]
+            },
+            {
+                "name": "Rach Shop Phone Booth 2",
+                "map_locations": [
+                    {
+                        "map": "shopping_mall",
+                        "x": 2196,
+                        "y": 120
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Bottle)"
+                    }
+                ]
+            },
+            {
+                "name": "Rach Shop Phone Booth 3",
+                "map_locations": [
+                    {
+                        "map": "shopping_mall",
+                        "x": 2476,
+                        "y": 120
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Pipe)"
+                    }
+                ]
+            },
+            {
+                "name": "ABC Shop Phone Booth 1",
+                "map_locations": [
+                    {
+                        "map": "shopping_mall",
+                        "x": 2926,
+                        "y": 120
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Nothing)"
+                    }
+                ]
+            },
+            {
+                "name": "ABC Shop Phone Booth 2",
+                "map_locations": [
+                    {
+                        "map": "shopping_mall",
+                        "x": 2968,
+                        "y": 120
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Bottle)"
+                    }
+                ]
+            },
+            {
+                "name": "ABC Shop Phone Booth 3",
+                "map_locations": [
+                    {
+                        "map": "shopping_mall",
+                        "x": 3006,
+                        "y": 120
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Nothing)"
+                    }
+                ]
+            },
+            {
+                "name": "Boss Phone Booth",
+                "map_locations": [
+                    {
+                        "map": "shopping_mall",
+                        "x": 3678,
+                        "y": 120
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Chicken)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage Clear",
+                "map_locations": [
+                    {
+                        "map": "shopping_mall",
+                        "x": 3812,
+                        "y": 84
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Inner City Slums Key)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Inner City Slums",
+        "access_rules": [
+            "$can_reach_stage|2"
+        ],
+        "children": [
+            {
+                "name": "Red Bricks Door Barrel 1",
+                "map_locations": [
+                    {
+                        "map": "inner_city_slums",
+                        "x": 1240,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (1000 Points)"
+                    }
+                ]
+            },
+            {
+                "name": "Red Bricks Door Barrel 2",
+                "map_locations": [
+                    {
+                        "map": "inner_city_slums",
+                        "x": 1394,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Sleeping Powder)"
+                    }
+                ]
+            },
+            {
+                "name": "Broken Windows Door Barrel 1",
+                "map_locations": [
+                    {
+                        "map": "inner_city_slums",
+                        "x": 1802,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Bottle)"
+                    }
+                ]
+            },
+            {
+                "name": "Broken Windows Door Barrel 2",
+                "map_locations": [
+                    {
+                        "map": "inner_city_slums",
+                        "x": 1842,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Apple)"
+                    }
+                ]
+            },
+            {
+                "name": "Graffiti Wall Barrel 1",
+                "map_locations": [
+                    {
+                        "map": "inner_city_slums",
+                        "x": 2026,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Bottle)"
+                    }
+                ]
+            },
+            {
+                "name": "Graffiti Wall Barrel 2",
+                "map_locations": [
+                    {
+                        "map": "inner_city_slums",
+                        "x": 2106,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Extra Life)"
+                    }
+                ]
+            },
+            {
+                "name": "Fence Barrel",
+                "map_locations": [
+                    {
+                        "map": "inner_city_slums",
+                        "x": 2602,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Pipe)"
+                    }
+                ]
+            },
+            {
+                "name": "Blue Brick Poster Barrel",
+                "map_locations": [
+                    {
+                        "map": "inner_city_slums",
+                        "x": 2858,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Apple)"
+                    }
+                ]
+            },
+            {
+                "name": "Blue Brick Before Boss Barrel",
+                "map_locations": [
+                    {
+                        "map": "inner_city_slums",
+                        "x": 3274,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Knife)"
+                    }
+                ]
+            },
+            {
+                "name": "Red Brick Boss Barrel",
+                "map_locations": [
+                    {
+                        "map": "inner_city_slums",
+                        "x": 3650,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Chicken)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage Clear",
+                "map_locations": [
+                    {
+                        "map": "inner_city_slums",
+                        "x": 3794,
+                        "y": 122
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Beachside Key)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Beachside",
+        "access_rules": [
+            "$can_reach_stage|3"
+        ],
+        "children": [
+            {
+                "name": "Before First Projector Tires",
+                "map_locations": [
+                    {
+                        "map": "beachside",
+                        "x": 1122,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Baseball Bat)"
+                    }
+                ]
+            },
+            {
+                "name": "Third Fence Tires 1",
+                "map_locations": [
+                    {
+                        "map": "beachside",
+                        "x": 2034,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Apple)"
+                    }
+                ]
+            },
+            {
+                "name": "Third Fence Tires 2",
+                "map_locations": [
+                    {
+                        "map": "beachside",
+                        "x": 2186,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (1000 Points)"
+                    }
+                ]
+            },
+            {
+                "name": "Third Fence Tires 3",
+                "map_locations": [
+                    {
+                        "map": "beachside",
+                        "x": 2586,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Chicken)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage Clear",
+                "map_locations": [
+                    {
+                        "map": "beachside",
+                        "x": 3820,
+                        "y": 108
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Bridge Under Construction Key)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bridge Under Construction",
+        "access_rules": [
+            "$can_reach_stage|4"
+        ],
+        "children": [
+            {
+                "name": "First Hole Signalisation Block",
+                "map_locations": [
+                    {
+                        "map": "bridge_under_construction",
+                        "x": 1656,
+                        "y": 160
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Sleeping Powder)"
+                    }
+                ]
+            },
+            {
+                "name": "First Hole Safety Barrier",
+                "map_locations": [
+                    {
+                        "map": "bridge_under_construction",
+                        "x": 1816,
+                        "y": 160
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (1000 Points)"
+                    }
+                ]
+            },
+            {
+                "name": "Second Hole Signalisation Pole",
+                "map_locations": [
+                    {
+                        "map": "bridge_under_construction",
+                        "x": 2176,
+                        "y": 128
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Apple)"
+                    }
+                ]
+            },
+            {
+                "name": "Second Hole Signalisation Block",
+                "map_locations": [
+                    {
+                        "map": "bridge_under_construction",
+                        "x": 2368,
+                        "y": 160
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Extra Life)"
+                    }
+                ]
+            },
+            {
+                "name": "Third Hole Signalisation Pole",
+                "map_locations": [
+                    {
+                        "map": "bridge_under_construction",
+                        "x": 2504,
+                        "y": 128
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Nothing)"
+                    }
+                ]
+            },
+            {
+                "name": "Third Hole Safety Barrier 1",
+                "map_locations": [
+                    {
+                        "map": "bridge_under_construction",
+                        "x": 2590,
+                        "y": 128
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (1000 Points)"
+                    }
+                ]
+            },
+            {
+                "name": "Third Hole Safety Barrier 2",
+                "map_locations": [
+                    {
+                        "map": "bridge_under_construction",
+                        "x": 2624,
+                        "y": 144
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Apple)"
+                    }
+                ]
+            },
+            {
+                "name": "Big Hole Signalisation Block 1",
+                "map_locations": [
+                    {
+                        "map": "bridge_under_construction",
+                        "x": 2912,
+                        "y": 128
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Bottle)"
+                    }
+                ]
+            },
+            {
+                "name": "Big Hole Signalisation Block 2",
+                "map_locations": [
+                    {
+                        "map": "bridge_under_construction",
+                        "x": 3376,
+                        "y": 128
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Chicken)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage Clear",
+                "map_locations": [
+                    {
+                        "map": "bridge_under_construction",
+                        "x": 3800,
+                        "y": 90
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Aboard The Ferry Key)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Aboard The Ferry",
+        "access_rules": [
+            "$can_reach_stage|5"
+        ],
+        "children": [
+            {
+                "name": "Double Wooden Wall Container 1",
+                "map_locations": [
+                    {
+                        "map": "aboard_the_ferry",
+                        "x": 1580,
+                        "y": 134
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (1000 Points)"
+                    }
+                ]
+            },
+            {
+                "name": "Double Wooden Wall Container 2",
+                "map_locations": [
+                    {
+                        "map": "aboard_the_ferry",
+                        "x": 1644,
+                        "y": 134
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Sleeping Powder)"
+                    }
+                ]
+            },
+            {
+                "name": "Double Wooden Wall Container 3",
+                "map_locations": [
+                    {
+                        "map": "aboard_the_ferry",
+                        "x": 1580,
+                        "y": 154
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (1000 Points)"
+                    }
+                ]
+            },
+            {
+                "name": "Double Wooden Wall Container 4",
+                "map_locations": [
+                    {
+                        "map": "aboard_the_ferry",
+                        "x": 1644,
+                        "y": 154
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Apple)"
+                    }
+                ]
+            },
+            {
+                "name": "First Ladder Container",
+                "map_locations": [
+                    {
+                        "map": "aboard_the_ferry",
+                        "x": 2876,
+                        "y": 122
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Chicken)"
+                    }
+                ]
+            },
+            {
+                "name": "Before Second Ladder Container",
+                "map_locations": [
+                    {
+                        "map": "aboard_the_ferry",
+                        "x": 3716,
+                        "y": 122
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Chicken)"
+                    }
+                ]
+            },
+            {
+                "name": "Before Boss Container",
+                "map_locations": [
+                    {
+                        "map": "aboard_the_ferry",
+                        "x": 4508,
+                        "y": 140
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Police)"
+                    }
+                ]
+            },
+            {
+                "name": "Boss Container",
+                "map_locations": [
+                    {
+                        "map": "aboard_the_ferry",
+                        "x": 5036,
+                        "y": 140
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Chicken)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage Clear",
+                "map_locations": [
+                    {
+                        "map": "aboard_the_ferry",
+                        "x": 5216,
+                        "y": 146
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Factory Key)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Factory",
+        "access_rules": [
+            "$can_reach_stage|6"
+        ],
+        "children": [
+            {
+                "name": "First Treadmill Crate 1",
+                "map_locations": [
+                    {
+                        "map": "factory",
+                        "x": 1161,
+                        "y": 124
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (5000 Points)"
+                    }
+                ]
+            },
+            {
+                "name": "First Treadmill Crate 2",
+                "map_locations": [
+                    {
+                        "map": "factory",
+                        "x": 1352,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (1000 Points)"
+                    }
+                ]
+            },
+            {
+                "name": "Miniboss Crate 1",
+                "map_locations": [
+                    {
+                        "map": "factory",
+                        "x": 1912,
+                        "y": 140
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Apple)"
+                    }
+                ]
+            },
+            {
+                "name": "Miniboss Crate 2",
+                "map_locations": [
+                    {
+                        "map": "factory",
+                        "x": 2360,
+                        "y": 140
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Chicken)"
+                    }
+                ]
+            },
+            {
+                "name": "After Double Treadmill Crate 1",
+                "map_locations": [
+                    {
+                        "map": "factory",
+                        "x": 3392,
+                        "y": 116
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Sleeping Powder)"
+                    }
+                ]
+            },
+            {
+                "name": "After Double Treadmill Crate 2",
+                "map_locations": [
+                    {
+                        "map": "factory",
+                        "x": 3616,
+                        "y": 152
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Nothing)"
+                    }
+                ]
+            },
+            {
+                "name": "Before Big Single Treadmill Crate 1",
+                "map_locations": [
+                    {
+                        "map": "factory",
+                        "x": 4032,
+                        "y": 116
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Police)"
+                    }
+                ]
+            },
+            {
+                "name": "Before Big Single Treadmill Crate 2",
+                "map_locations": [
+                    {
+                        "map": "factory",
+                        "x": 4104,
+                        "y": 116
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Extra Life)"
+                    }
+                ]
+            },
+            {
+                "name": "Before Big Single Treadmill Crate 3",
+                "map_locations": [
+                    {
+                        "map": "factory",
+                        "x": 4160,
+                        "y": 152
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Pipe)"
+                    }
+                ]
+            },
+            {
+                "name": "Boss Crate",
+                "map_locations": [
+                    {
+                        "map": "factory",
+                        "x": 5256,
+                        "y": 140
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Chicken)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage Clear",
+                "map_locations": [
+                    {
+                        "map": "factory",
+                        "x": 5340,
+                        "y": 104
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Elevator Key)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Elevator",
+        "access_rules": [
+            "$can_reach_stage|7"
+        ],
+        "children": [
+            {
+                "name": "Stage Clear",
+                "map_locations": [
+                    {
+                        "map": "elevator",
+                        "x": 6,
+                        "y": 402
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Syndicate Mansion Key)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Syndicate Mansion",
+        "access_rules": [
+            "$can_reach_stage|8"
+        ],
+        "children": [
+            {
+                "name": "Before Stage 1 Boss Table 1",
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 4280,
+                        "y": 138
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Nothing)"
+                    }
+                ]
+            },
+            {
+                "name": "Before Stage 1 Boss Table 2",
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 4168,
+                        "y": 156
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Nothing)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage 1 Boss Table",
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 3936,
+                        "y": 138
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Apple)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage 2 Boss Table",
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 3072,
+                        "y": 138
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Chicken)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage 3 Boss Table 1",
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 2456,
+                        "y": 138
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Sleeping Powder)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage 3 Boss Table 2",
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 2272,
+                        "y": 170
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Chicken)"
+                    }
+                ]
+            },
+            {
+                "name": "Before Stage 4 Boss Table",
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 1776,
+                        "y": 138
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Chicken)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage 4 Boss Table 1",
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 1448,
+                        "y": 170
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Knife)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage 4 Boss Table 2",
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 1384,
+                        "y": 138
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Sleeping Powder)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage 4 Boss Table 3",
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 1232,
+                        "y": 170
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Apple)"
+                    }
+                ]
+            },
+            {
+                "name": "Before Stage 5 Boss Table",
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 1000,
+                        "y": 170
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Nothing)"
+                    }
+                ]
+            },
+            {
+                "name": "Stage 5 Boss Table",
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 766,
+                        "y": 138
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Chicken)"
+                    }
+                ]
+            },
+            {
+                "name": "Twins",
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 654,
+                        "y": 132
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pickup (Nothing)"
+                    }
+                ]
+            },
+            {
+                "name": "Beat The Game",
+                "access_rules": [
+                    "$can_reach_final_boss"
+                ],
+                "map_locations": [
+                    {
+                        "map": "syndicate_mansion",
+                        "x": 158,
+                        "y": 96
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "GG"
+                    }
+                ]
+            }
+        ]
+    }
+]

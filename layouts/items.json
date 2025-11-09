@@ -1,0 +1,35 @@
+{
+    "item_grid": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2,1",
+                "item_size": 128,
+                "rows": [
+                    ["stage_1_key", "stage_2_key", "stage_3_key", "stage_4_key"],
+					["stage_5_key", "stage_6_key", "stage_7_key", "stage_8_key"]
+                ]
+            }
+        ]
+    },
+    "settings": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_size": "240,32",
+                "item_margin": "1,1",
+                "rows": [
+                    ["stages_to_clear_for_goal_label", "", "", "stages_to_clear_for_goal"],
+                    ["easy_mode_label", "", "", "easy_mode"]
+                ]
+            }
+        ]
+    }
+
+}

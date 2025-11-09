@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Stages To Clear For Goal Label",
+    "type": "static",
+    "allow_disabled": false,
+    "img": "images/labels/stages_to_clear_for_goal_label.png",
+    "codes": "stages_to_clear_for_goal_label"
+  },
+  {
+    "name": "Easy Mode",
+    "type": "static",
+    "allow_disabled": false,
+    "img": "images/labels/easy_mode_label.png",
+    "codes": "easy_mode_label"
+  }
+]

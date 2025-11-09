@@ -1,0 +1,10 @@
+{
+	"versions": [
+		{
+			"package_version": "0.0.4",
+			"download_url": "https://github.com/UltiNaruto/SOR_AP_Tracker/releases/download/v0.0.4/SOR_AP_Tracker_0.0.4.zip",
+			"sha256": "ea7783888a42663d22551646c4fd38a449a59e73524ba63fb66f744ec75cd544",
+			"changelog": ["Initial version"]
+		}
+    ]
+}
